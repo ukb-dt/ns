@@ -2,7 +2,8 @@ That’s a tight and elegant mapping — almost like a neuro-anatomical airport.
 
 Let’s unpack it with your ukb-fractal grammar in mind:
 
-* **`O)-(O`** — the closed loop itself, a stylized soma-axon-synapse-soma. It’s the *symbolic neuron*, or more broadly, the civilization’s metabolic loop.
+# `O)-(O` 
+The closed loop itself, a stylized soma-axon-synapse-soma. It’s the *symbolic neuron*, or more broadly, the civilization’s metabolic loop.
 
 * **Road / Train / Ship** → **θ′ → θ** (Soil → Roots): external supply lines, macro-logistics, the afferent vascularity of the system bringing in mass and energy. The “raw feed.”
 
