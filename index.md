@@ -18,7 +18,7 @@
 {% endraw %}
 
 
-Here’s the **full-stack ukb-fractal table** for the airport–neuroenergetic analogy, using the canonical **O)-(O** glyph and our calculus chain with conditional notation. It merges ontology, calculus/epistemology, metaphorical mapping, and the ATL vs DXB empirical layer:
+Here’s the **full-stack ukb-fractal table** for the airport–neuroenergetic analogy, using the canonical [O)-(O](https://ukb-dt.github.io/nervous-system/) glyph and our calculus chain with conditional notation. It merges ontology, calculus/epistemology, metaphorical mapping, and the ATL vs DXB empirical layer:
 
 | **Level**           | **Symbol O)-(O** | **Ontology**                                                        | **Calculus / Epistemology**                                                   | **Metaphor / Biological Analog**                    |    **ATL (Hartsfield–Jackson)**    |    **DXB (Dubai International)**   | **Interpretive Note**                                                       |
 | :------------------ | :----------------: | :------------------------------------------------------------------ | :---------------------------------------------------------------------------- | :-------------------------------------------------- | :--------------------------------: | :--------------------------------: | :-------------------------------------------------------------------------- |
